@@ -23,19 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A comunicação clara e objetiva é a chave para um ambiente de trabalho mais eficiente e produtivo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Copilot
+Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei a IA nas tres plataformas escolhidas para realizar o projeto e juntei ao meu conhecimento prévio sobre o assunto, gerando contextos organizacionais e imagens interessantes para dar ao trabalho final um toque de pessoalidade e incluir a simplicidade sem no entanto perder o propósito de tornar simples o compartilhamento do conhecimento.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto resultou num e-book de qualidade, que poderá ser utilizado nos mais diversos tipos de organização e ainda poderá ser objeto de estudo em rodas de diálogo para empresas que desejem implantar a comunicação simples no seu dia a dia.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Eu já havia utilizado a IA generativa para fins pessoais e para a criação de templantes para fins de hobbies e estudos, mas confesso que este desafio me abriu os olhos para as possibilidades que existem além do tabu de que a IA irá substituir a atuação humana na sociedade. Entendi que é realmente o contrario disso e farei uso deste conhecimento na minha jornada, pessoal e profissional.
 ```
 
 ### Exemplos e Insigths
